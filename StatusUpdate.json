@@ -1,0 +1,20 @@
+{
+ 
+    "UpdateType" : "StatusUpdate",
+    "RequestingTradingPartnerID": "dd1a754a-01e9-4b5e-ad31-ce14c9d65e62",
+    "AssignedTradingPartnerID": "98caa74d-1bd2-440e-b6c2-3f2e0c00b0f9",
+    "CaseID": "PAR-12093",
+    "OrderRefs": {
+        "BOL": "HES2S1083721A"
+    },
+ 
+"StatusEvent": "Released",
+"StatusEventDateTime": "20240402T082433.000-05:00",
+ 
+  "LocationCity": "Grand Prairie",
+    "LocationState": "TX",
+    "OutboundCarrier": "EXLA",
+    "OutboundCarrierTracking": "123-123123",
+    "OutboundTrailerID": "9088884",
+    "TerminalNotes": "G2-13"
+}
